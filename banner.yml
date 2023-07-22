@@ -1,15 +1,15 @@
-title: 
+title: anetaBTC
 description: 
 image: https://ipfs.io/ipfs/
 mintAddresses:
   - 
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/anetaBTC
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/EgH7Mp4mQs
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://anetabtc.io/
     icon: fa-solid fa-globe fa-fw
